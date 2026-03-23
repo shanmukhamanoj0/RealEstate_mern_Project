@@ -26,7 +26,7 @@ real-estate-management/
 └── README.md
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/your-username/real-estate-management.git
+git clone https://github.com/shanmukhamanoj0/RealEstate_mern_Project
 cd real-estate-management
 2. Install dependencies
 
